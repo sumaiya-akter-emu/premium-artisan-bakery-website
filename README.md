@@ -5,6 +5,34 @@ A visually stunning, high-performance 5-page website for an artisan bakery. This
 ## 🚀 Live Demo
 [View Live Project](https://sumaiya-akter-emu.github.io/premium-artisan-bakery-website/)
 
+## 📸 Screenshots
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="https://raw.githubusercontent.com/sumaiya-akter-emu/premium-artisan-bakery-website/main/sumaiya-akter-emu.github.io_premium-artisan-bakery-website-Home-Page.png" alt="Home Page" style="border-radius: 8px;">
+      <br><b>Home Page</b>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="https://raw.githubusercontent.com/sumaiya-akter-emu/premium-artisan-bakery-website/main/sumaiya-akter-emu.github.io_premium-artisan-bakery-website-Menu-Page.png" alt="Menu Page" style="border-radius: 8px;">
+      <br><b>Menu Page</b>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="https://raw.githubusercontent.com/sumaiya-akter-emu/premium-artisan-bakery-website/main/sumaiya-akter-emu.github.io_premium-artisan-bakery-website-About-Page.png" alt="About Page" style="border-radius: 8px;">
+      <br><b>About Page</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="https://raw.githubusercontent.com/sumaiya-akter-emu/premium-artisan-bakery-website/main/sumaiya-akter-emu.github.io_premium-artisan-bakery-website-Gallery-Page.png" alt="Gallery Page" style="border-radius: 8px;">
+      <br><b>Gallery Page</b>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="https://raw.githubusercontent.com/sumaiya-akter-emu/premium-artisan-bakery-website/main/sumaiya-akter-emu.github.io_premium-artisan-bakery-website-Contact-Page.png" alt="Contact Page" style="border-radius: 8px;">
+      <br><b>Contact Page</b>
+    </td>
+  </tr>
+</table>
 ---
 
 ## ✨ Features
